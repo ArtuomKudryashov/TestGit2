@@ -1,2 +1,4 @@
 Hello world!
 Go to git
+Go from second programm
+go 4 git
